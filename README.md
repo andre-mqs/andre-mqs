@@ -10,8 +10,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Andre-ciborg" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fteen-titans-go.fandom.com%2Fpt-br%2Fwiki%2FCiborgue%2FGaleria&psig=AOvVaw1IvF_miHghlfxaGIovR3z1&ust=1630696389277000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNi78cr_4PICFQAAAAAdAAAAABAI">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="right" alt="Andre-ciborg" height="200" width="200" src="https://c.tenor.com/7qsplvQ3ZW4AAAAC/cyborg-teen-titans.gif">
 </div>
   
   ##
