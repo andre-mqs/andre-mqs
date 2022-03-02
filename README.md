@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="right" alt="Andre-ciborg" height="200" width="200" src="https://c.tenor.com/7qsplvQ3ZW4AAAAC/cyborg-teen-titans.gif">
 </div>
   
   ##
