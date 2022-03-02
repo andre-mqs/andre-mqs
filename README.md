@@ -1,6 +1,6 @@
 ## Eaii, aqui é o André Marques!! 
  <div>
-  <a href="https://github.com/back-andre">
+  <a href="https://github.com/andre-mqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=back-andre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=back-andre&layout=compact&langs_count=7&theme=dark"/>
 </div>
