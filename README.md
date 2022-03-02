@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/andre-mqs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=back-andre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=back-andre&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-mqs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +25,6 @@
   <a href = "mailto:andremarques@gmx.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-martins-0a16a81a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/back-andre/back-andre/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/andre-mqs/andre-mqs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
